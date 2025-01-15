@@ -13,6 +13,6 @@
 class JavaBasic {
     // main is function name and void is return empty return type
     public static void main(String[] args) {
-        System.out.println("hello world 10");
+        System.out.println("hello world");
     }
 }
