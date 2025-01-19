@@ -1,4 +1,4 @@
-public class loops {
+public class Loops {
     // A loop is used for executing a block of statements repeatedly until a
     // particular condition is satisfied. A loop consists of an initialization
     // statement, a test condition and an increment statement.

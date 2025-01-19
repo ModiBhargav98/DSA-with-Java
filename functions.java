@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Functions {
+public class Functions {
 
     // Note: function name always write in camel cases
     // function and methods both are difference we learn oops with java

@@ -1,4 +1,4 @@
-class Conditional {
+public class Conditional {
     // main is function name and void is return empty return type
     public static void main(String[] args) {
 

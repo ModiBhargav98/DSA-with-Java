@@ -1,5 +1,5 @@
 
-public class patterns {
+public class Patterns {
     public static void main(String args[]) {
 
         // Pattern 1

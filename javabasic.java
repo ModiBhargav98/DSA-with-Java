@@ -10,7 +10,7 @@
 // jvm means java virtual machine
 
 // first run the our class FirstClass after that run the main function in execution time
-class JavaBasic {
+public class JavaBasic {
     // main is function name and void is return empty return type
     public static void main(String[] args) {
         System.out.println("hello world");
