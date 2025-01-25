@@ -16,5 +16,30 @@ public class Functions {
         int b = sc.nextInt();
 
         System.out.println(printMyName(a, b));
+
+        // TwoDArray
+        // a means rows
+        // b means columns
+        int[][] numbers = new int[a][b];
+
+        // inputs
+        // a means rows
+        for (int i = 0; i < a; i++) {
+            // b means columns
+            for (int j = 0; j < b; j++) {
+                numbers[i][j] = sc.nextInt();
+            }
+        }
+
+        // outputs
+        // a means rows
+        for (int i = 0; i < a; i++) {
+            // b means columns
+            for (int j = 0; j < b; j++) {
+                System.out.print(numbers[i][j] + "");
+            }
+            System.out.println();
+        }
+
     }
 }
